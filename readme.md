@@ -17,5 +17,8 @@ npm install
 npm run start
 
 ```
+# api文档
 
+地址 ：http://{server_name}/documentation
+> 如果是本地的话，则替换 server_name 为 localhost:30000
 
